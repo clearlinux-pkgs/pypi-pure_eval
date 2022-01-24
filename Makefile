@@ -1,5 +1,5 @@
 PKG_NAME := pypi-pure_eval
-URL = https://files.pythonhosted.org/packages/0d/44/5cedbf05cce044385eec8f88777325259610963abbeb3c1e80f93741d17a/pure_eval-0.2.1.tar.gz
+URL = https://files.pythonhosted.org/packages/97/5a/0bc937c25d3ce4e0a74335222aee05455d6afa2888032185f8ab50cdf6fd/pure_eval-0.2.2.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
