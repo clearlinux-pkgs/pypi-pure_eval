@@ -7,7 +7,7 @@
 #
 Name     : pypi-pure_eval
 Version  : 0.2.3
-Release  : 14
+Release  : 15
 URL      : https://files.pythonhosted.org/packages/cd/05/0a34433a064256a578f1783a10da6df098ceaa4a57bbeaa96a6c0352786b/pure_eval-0.2.3.tar.gz
 Source0  : https://files.pythonhosted.org/packages/cd/05/0a34433a064256a578f1783a10da6df098ceaa4a57bbeaa96a6c0352786b/pure_eval-0.2.3.tar.gz
 Summary  : Safely evaluate AST nodes without side effects
